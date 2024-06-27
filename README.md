@@ -5,8 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=aftabshuvo&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
 </p>
 <p align="center">
-  <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
+  <img src="https://github.com/aftabshuvo/aftabshuvo/blob/main/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
 </p>
+
+<br/>
 
 <h3>
 I am currently an undergraduate student at Metropolitan University, pursuing a degree in Computer Science. My academic interests lie in software development, artificial intelligence, and cybersecurity. Throughout my studies, I have gained a strong foundation in programming languages, data structures, and algorithms, and I am passionate about applying these skills to solve real-world problems. Beyond academics, I am involved in various tech clubs and projects that allow me to collaborate with peers and further my understanding of emerging technologies.
@@ -25,7 +27,7 @@ I am currently an undergraduate student at Metropolitan University, pursuing a d
 
 
 <!---##------------------------------------------  Stats and Streaks  ----------------------------------------------##--->
-
+<br/><br/><br/><br/>
 <p align="center">
     <a href="https://github.com/shuvoaftab">
         <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aftabshuvo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
